@@ -8,7 +8,7 @@ This project is basically a copy of <https://github.com/google/google-id-token> 
 
 ## Installation
 
-    *to come...* ~~gem install firebase-id-token~~
+    gem install firebase-id-token
 
 ## Examples
 
