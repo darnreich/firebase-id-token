@@ -38,10 +38,6 @@ module FirebaseIDToken
 
   class Validator
 
-    def do_sth
-      print 'Hello GEM!!!!'
-    end
-
     FIREBASE_CERTS_URI = 'https://www.googleapis.com/robot/v1/metadata/x509/securetoken@system.gserviceaccount.com'
     FIREBASE_CERTS_EXPIRY = 86400 # 1 day
 
